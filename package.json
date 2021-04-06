@@ -1,0 +1,19 @@
+{
+  "name": "web3basics",
+  "version": "1.0.0",
+  "description": "This folder describes the basic of web3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web3",
+    "basics"
+  ],
+  "author": "Inaam Ullah",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.3.4"
+  }
+}
